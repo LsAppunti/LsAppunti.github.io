@@ -3,7 +3,7 @@
     "short_name": "LsAppunti",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
+    "background_color": "#636366",
     "theme_color": "#000000",
     "description": "PWA For sharing notes",
     "orientation": "portrait-primary",
