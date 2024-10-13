@@ -77650,7 +77650,8 @@ return A.fB(s,A.fA(A.b([B.Rm,B.Rr,B.Rp,B.Rh,B.Ro,B.Rf,B.Rk,B.Rj,B.Rl,B.Ri],t.p),
 A.rr.prototype={
 ab(){return new A.Qp()}}
 A.Qp.prototype={
-H(a){return A.apv("assets/images/LSAppunti.png",this.a.c,null)}}
+H(a){var s=this.a.c
+return A.apv("assets/images/LSAppunti.png",s,s*3)}}
 A.zF.prototype={
 ab(){return new A.SX()}}
 A.SX.prototype={
