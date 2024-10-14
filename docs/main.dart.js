@@ -77742,7 +77742,7 @@ r=A.W(50,0,0,0)
 return A.zr(new A.oT(o,new A.D(1/0,55),q),q,A.e_(A.ee(A.b([p,new A.bX(B.lW,s,q),A.IL(!1,A.hb(50),!0,new A.bX(B.CR,new A.th(q),q),q,!0,q,q,B.r,q,q,q,q,q,q,new A.ajA(),q,r,q,q)],n),B.T,B.j8,B.ac),q,q),q)}}
 A.ajB.prototype={
 $1(a){var s,r=document.createElement("iframe")
-r.src="assets/html/camera.html"
+r.src="assets/html/index.html"
 s=r.style
 s.border="none"
 s=r.style
