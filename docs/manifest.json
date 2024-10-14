@@ -4,7 +4,7 @@
     "start_url": ".",
     "display": "standalone",
     "background_color": "#636366",
-    "theme_color": "#000000",
+    "theme_color": "#64D2FF",
     "description": "PWA For sharing notes",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
