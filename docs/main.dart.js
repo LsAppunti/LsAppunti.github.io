@@ -78200,7 +78200,7 @@ A.ru.prototype={
 aa(){return new A.QC()}}
 A.QC.prototype={
 H(a){var s=this.a.c
-return A.apJ("assets/images/LSAppunti.png",s,s*3)}}
+return A.apJ("assets/images/Logo.png",s,s*3)}}
 A.yL.prototype={
 H(a){var s=null
 return A.Ln(A.b([A.d9(B.E6,B.rV,s,18),B.hk,A.db("Non ancora disponibile",s,s,s,A.cY(s,s,B.rV,s,s,s,s,s,s,s,s,18,s,s,B.dU,s,s,!0,s,s,s,s,s,s,s,s),s,s)],t.p),B.R,B.bG,B.aa)}}
