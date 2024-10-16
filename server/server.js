@@ -16,6 +16,11 @@ if (!fs.existsSync(uploadDir)) {
   fs.mkdirSync(uploadDir);  // Create uploads folder if not exists
 }
 
+const cors = require('cors');
+app.use(cors({
+  origin: '*'  // Allow all origins for testing purposes, but you can restrict to your GitHub Pages URL later
+}));
+
 app.use(bodyParser.json({ limit: '10mb' }));
 
 app.post('/upload-photo', async (req, res) => {
