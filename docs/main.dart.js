@@ -78291,19 +78291,6 @@ $S:500}
 A.nm.prototype={
 aa(){return new A.Bm()}}
 A.Bm.prototype={
-aw(){this.aN()
-this.vg()},
-vg(){var s=0,r=A.I(t.H),q=this,p,o,n,m
-var $async$vg=A.J(function(a,b){if(a===1)return A.F(b,r)
-while(true)switch(s){case 0:n=A
-m=J
-s=2
-return A.E(A.mu(),$async$vg)
-case 2:o=n.cw(m.b6(b.a,"userEmail"))
-if(o!=null&&q.c!=null){p=q.c
-p.toString
-A.jl(p,!1,t.Vg).H8(o)}return A.G(null,r)}})
-return A.H($async$vg,r)},
 qq(){var s=0,r=A.I(t.H),q=this,p,o
 var $async$qq=A.J(function(a,b){if(a===1)return A.F(b,r)
 while(true)switch(s){case 0:s=3
@@ -78386,6 +78373,19 @@ return A.f2(q,A.e1(A.b([B.dh,A.db(this.a.c,q,q,q,A.cY(q,q,q,q,q,q,q,q,q,q,q,20,q
 A.oc.prototype={
 aa(){return new A.Q4()}}
 A.Q4.prototype={
+aw(){this.aN()
+this.vg()},
+vg(){var s=0,r=A.I(t.H),q=this,p,o,n,m
+var $async$vg=A.J(function(a,b){if(a===1)return A.F(b,r)
+while(true)switch(s){case 0:n=A
+m=J
+s=2
+return A.E(A.mu(),$async$vg)
+case 2:o=n.cw(m.b6(b.a,"userEmail"))
+if(o!=null&&q.c!=null){p=q.c
+p.toString
+A.jl(p,!1,t.Vg).H8(o)}return A.G(null,r)}})
+return A.H($async$vg,r)},
 H(a){var s=null
 return A.zJ(new A.p0(new A.Be("Pagina Principale",s),new A.D(1/0,60),s),s,A.e1(A.b([B.aW,new A.oy(80,s),B.dh,A.dP(A.db("Cosa vuoi fare?",s,s,s,A.cY(s,s,s,s,s,s,s,s,s,s,s,22,s,s,B.aa,s,s,!0,s,s,s,s,s,s,s,s),s,s),s,s),B.aW,new A.Bd("Carica PDF",B.mv,s),B.dh,new A.Bd("Scarica PDF",B.mw,s),B.aW],t.p),B.R,B.bG,B.ab),B.hR)}}
 A.p3.prototype={
