@@ -79697,7 +79697,7 @@ $.Gk().zb("cameraHtml",new A.alW(this),!0)},
 uH(a){return this.VC(a)},
 VC(a){var s=0,r=A.I(t.H),q,p,o
 var $async$uH=A.J(function(b,c){if(b===1)return A.F(c,r)
-while(true)switch(s){case 0:q=A.hW("https://828d-93-41-140-235.ngrok-free.app/upload-photo")
+while(true)switch(s){case 0:q=A.hW("https://a380-93-41-140-235.ngrok-free.app/upload-photo")
 p=t.N
 o=A.ap(["Content-Type","application/json"],p,p)
 s=2
