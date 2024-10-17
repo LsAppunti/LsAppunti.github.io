@@ -79849,11 +79849,10 @@ A.pP.prototype={
 ab(){return new A.Um()}}
 A.Um.prototype={
 zz(a){return this.amJ(a)},
-amJ(a){var s=0,r=A.I(t.H),q=1,p,o,n,m,l,k,j,i,h
+amJ(a){var s=0,r=A.I(t.H),q=1,p,o,n,m,l,k,j,i
 var $async$zz=A.J(function(b,c){if(b===1){p=c
-s=q}while(true)switch(s){case 0:i="https://a380-93-41-140-235.ngrok-free.app/upload-photo"
-q=3
-m=A.hX(i)
+s=q}while(true)switch(s){case 0:q=3
+m=A.hX("https://adc9-93-41-140-235.ngrok-free.app/upload-photo")
 l=t.N
 k=A.ap(["Content-Type","application/json"],l,l)
 s=6
@@ -79865,8 +79864,8 @@ A.qC("Error uploading image: "+A.aP6(A.aMX(m.e).c.a.h(0,"charset")).eX(0,m.w))}q
 s=5
 break
 case 3:q=2
-h=p
-n=A.ae(h)
+i=p
+n=A.ae(i)
 A.qC("Error uploading image: "+A.j(n))
 s=5
 break
