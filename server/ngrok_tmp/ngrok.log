@@ -1,0 +1,6 @@
+t=2024-10-17T15:53:52+0200 lvl=warn msg="can't bind default web address, trying alternatives" obj=web addr=127.0.0.1:4040
+t=2024-10-17T15:57:29+0200 lvl=warn msg="can't bind default web address, trying alternatives" obj=web addr=127.0.0.1:4040
+t=2024-10-17T15:57:29+0200 lvl=info msg="starting web service" obj=web addr=127.0.0.1:4042 allow_hosts=[]
+t=2024-10-17T15:57:30+0200 lvl=info msg="client session established" obj=tunnels.session
+t=2024-10-17T15:57:30+0200 lvl=info msg="tunnel session started" obj=tunnels.session
+t=2024-10-17T15:57:30+0200 lvl=info msg="started tunnel" obj=tunnels name=command_line addr=http://localhost:3000 url=https://0d71-93-41-140-235.ngrok-free.app
