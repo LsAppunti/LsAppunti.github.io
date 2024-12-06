@@ -82462,13 +82462,14 @@ m=A.W(51,m.gm(m)>>>16&255,m.gm(m)>>>8&255,m.gm(m)&255)
 s=b.d
 s===$&&A.a()
 s=s.f
-s=s!=null?new A.IN(new A.pd(A.awo(n,n,new A.tU(s,1,n)),new A.as7(),100,100,B.l2,n),n):A.cT(B.mL,A.R(a).ax.b,n,50)
+if(s!=null&&B.d.p(s,"googleusercontent.com")){s.toString
+s=new A.IN(new A.pd(A.awo(n,n,new A.tU(s,1,n)),new A.as7(),100,100,B.l2,n),n)}else s=A.cT(B.mL,A.R(a).ax.b,n,50)
 r=b.d
 q=r.b
 q===$&&A.a()
 r=r.c
 r===$&&A.a()
-r=A.cO(q.toUpperCase()+" "+r.toUpperCase(),n,n,n,B.Q0,n,n)
+r=A.cO(q+" "+r,n,n,n,B.Q0,n,n)
 q=this.a
 p=t.p
 o=A.ng(A.b([q.Kf("Caricati",q.d),q.Kf("Scaricati",!q.d)],p),B.E,B.ee,B.R)
@@ -82637,8 +82638,8 @@ q.am()
 return A.C(null,r)}})
 return A.D($async$nX,r)},
 Aq(a,b){var s=new A.ajx(a,b),r=J.ayN(a.split("@")[0],".")
-s.c=r[0]
-s.b=r[1]
+s.c=r[0].toUpperCase()
+s.b=r[1].toUpperCase()
 this.d=s
 this.am()},
 Wn(a){return this.Aq(a,null)}}
