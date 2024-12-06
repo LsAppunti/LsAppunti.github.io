@@ -24618,10 +24618,9 @@ a_x:function a_x(){},
 a_y:function a_y(){},
 a_z:function a_z(){},
 a_A:function a_A(){},
-ajw:function ajw(a,b){var _=this
+ajw:function ajw(a){var _=this
 _.a=a
-_.e=_.d=_.c=_.b=$
-_.f=b},
+_.e=_.d=_.c=_.b=$},
 KE:function KE(a,b){this.a=a
 this.b=b},
 Io:function Io(a,b){this.a=a
@@ -82510,19 +82509,17 @@ return A.kS(p,A.eh(p,A.cO(a,p,p,p,A.cP(p,p,q,p,p,p,p,p,p,p,p,18,p,p,r,p,p,!0,p,p
 a1q(){return A.a8U(new A.as3(),0)},
 a1d(){return A.a8U(new A.as0(),0)}}
 A.as4.prototype={
-$3(a,b,c){var s,r,q,p,o=null,n=b.d
-n===$&&A.a()
-s=n.f
-if(s==null)s="assets/images/default_profile.png"
-r=n.b
-r===$&&A.a()
-n=n.c
-n===$&&A.a()
-n=A.cO(r.toUpperCase()+" "+n.toUpperCase(),o,o,o,B.Q_,o,o)
-r=this.a
-q=t.p
-p=A.ng(A.b([r.Kl("Caricati",r.d),r.Kl("Scaricati",!r.d)],q),B.E,B.ee,B.S)
-return A.lp(B.L_,o,A.dx(A.b([B.ye,new A.Iz(new A.tT(s),50,o),B.yd,n,B.c3,new A.bL(B.Dh,B.CN,o),new A.bL(B.fc,p,o),B.c3,A.avp(r.d?r.a1q():r.a1d(),1)],q),B.E,B.aa,B.S),B.eM)},
+$3(a,b,c){var s,r,q,p=null,o=b.d
+o===$&&A.a()
+s=o.b
+s===$&&A.a()
+o=o.c
+o===$&&A.a()
+o=A.cO(s.toUpperCase()+" "+o.toUpperCase(),p,p,p,B.Q_,p,p)
+s=this.a
+r=t.p
+q=A.ng(A.b([s.Kl("Caricati",s.d),s.Kl("Scaricati",!s.d)],r),B.E,B.ee,B.S)
+return A.lp(B.L_,p,A.dx(A.b([B.ye,new A.Iz(new A.tT("assets/images/default_profile.png"),50,p),B.yd,o,B.c3,new A.bL(B.Dh,B.CN,p),new A.bL(B.fc,q,p),B.c3,A.avp(s.d?s.a1q():s.a1d(),1)],r),B.E,B.aa,B.S),B.eM)},
 $S:553}
 A.as2.prototype={
 $0(){var s=this.a
@@ -82683,7 +82680,7 @@ case 2:q.a=a
 q.am()
 return A.C(null,r)}})
 return A.D($async$nZ,r)},
-Ax(a,b){var s=new A.ajw(a,b),r=J.ayI(a.split("@")[0],".")
+Ax(a,b){var s=new A.ajw(a),r=J.ayI(a.split("@")[0],".")
 s.c=r[0]
 s.b=r[1]
 this.d=s
