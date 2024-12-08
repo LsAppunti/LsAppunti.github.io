@@ -85500,7 +85500,7 @@ p=A.cK((c?"Caricato":"Scaricato")+" il "+(""+A.aEI(k)+"/"+A.aEJ(k)+"/"+A.aEK(k))
 o=n.c
 o.toString
 return new A.bD(B.mA,A.dI(m,new A.Ct(new A.x9(0.25,B.MV,s,m),A.ayy(B.mA,r,m,p,q,A.er(B.n5,A.P(o).ax.b,m,m)),new A.e8(b,t.f3)),B.q,m,new A.cB(i.ax.k2,m,m,j,m,m,B.aa),m,m,m,m,m,m,m),m)},
-a38(){return new A.PK(B.jw,B.j,!0,new A.auz(),B.EU,A.eE(15),new A.aw(20,20,20,20),null)},
+a38(){return new A.PK(B.jw,B.j,!0,new A.auz(),B.EU,A.eE(15),new A.aw(200,200,200,200),null)},
 Lz(a,b){var s,r,q=null,p=this.c
 p.toString
 s=A.P(p).ax
