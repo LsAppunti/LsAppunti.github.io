@@ -25783,15 +25783,14 @@ tD:function tD(a,b){this.c=a
 this.a=b},
 pA:function pA(a){this.a=a},
 UB:function UB(){this.c=this.a=null},
-uA:function uA(a,b,c,d,e,f,g,h){var _=this
+uA:function uA(a,b,c,d,e,f,g){var _=this
 _.c=a
 _.d=b
 _.e=c
 _.f=d
 _.r=e
 _.w=f
-_.x=g
-_.a=h},
+_.a=g},
 ag0:function ag0(a){this.a=a},
 ag1:function ag1(a){this.a=a},
 qx:function qx(a,b){this.c=a
@@ -86208,7 +86207,7 @@ p=A.eV(A.b([B.FG,B.hB,A.ca("Pubblicato da: "+k.d,j,j,j,B.zi,j,j)],r),B.z,B.W,B.I
 o=A.eV(A.b([B.FK,B.hB,A.ca("Data: "+k.e,j,j,j,B.zi,j,j)],r),B.z,B.W,B.I)
 n=k.w
 n=A.eV(A.b([B.FC,B.hB,new A.ag0(i).$1(n),B.hB,A.ca(A.j(n)+" su 5 \u2022 "+B.h.k(k.r)+" voti",j,j,j,B.Sn,j,j)],r),B.z,B.W,B.I)
-s=A.zj(A.dx(j,new A.B6(k.x,!0,!1,j),B.q,j,new A.cy(j,j,A.a2y(s,2),A.el(8),j,j,B.a8),j,j,j,j,j,j,j),1)
+s=A.zj(A.dx(j,new A.B6("assets/pdf/pdf1.pdf",!0,!1,j),B.q,j,new A.cy(j,j,A.a2y(s,2),A.el(8),j,j,B.a8),j,j,j,j,j,j,j),1)
 m=A.Lr(j,j,B.tP,j,j,j,j,j,j,B.j,j,j,B.Ej,j,new A.cp(A.el(8),B.p),j,j,j,j)
 l=k.f?"Rimuovi PDF":"Rimuovi dai download"
 return A.lI(h,j,new A.bA(B.mN,A.e5(A.b([q,B.Pc,p,B.hC,o,B.hC,n,B.hC,s,B.hC,new A.bA(B.Ex,A.dl(A.aPB(B.FJ,A.ca(l,j,j,j,A.dI(j,j,j,j,j,j,j,j,j,j,j,16,j,j,B.aq,j,j,!0,j,j,j,j,j,j,j,j),j,j),new A.ag1(a),m),j,1/0),j)],r),B.z,B.W,B.I),j),j)}}
@@ -86480,7 +86479,7 @@ s=A.ae5(new A.avG(r.b,r.c,r.d),null,t.z)
 A.dE(q,!1).lf(s)},
 $S:0}
 A.avG.prototype={
-$1(a){return new A.uA(this.a,"Paolo Vairo",this.b,this.c,30,3.5,"assets/pdf/pdf1.pdf",null)},
+$1(a){return new A.uA(this.a,"Paolo Vairo",this.b,this.c,30,3.5,null)},
 $S:586}
 A.avD.prototype={
 $1(a){},
