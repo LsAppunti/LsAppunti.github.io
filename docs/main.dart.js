@@ -87956,7 +87956,7 @@ F(a){return A.pt(new A.abI(),t.eC)}}
 A.abI.prototype={
 $3(a,b,c){var s,r,q=null,p=b.a
 p===$&&A.a()
-p=p.j(0,$.jV())?A.hC(B.k,0.4):A.hC(B.KU,0.4)
+p=p.j(0,$.jV())?A.hC(B.k,0.5):A.hC(B.KU,0.5)
 s=A.a3W(A.R(a).ax.b,1)
 r=A.dE(10)
 return A.dW(q,A.dV(A.b([B.VK,B.VS,B.VP,B.VF,B.VM,B.VD,B.VO,B.VI,B.VJ,B.VH],t.p),B.z,B.b6,B.J),B.r,q,new A.cy(p,q,s,r,q,q,B.aa),q,300,q,q,q,q,250)},
@@ -88010,7 +88010,7 @@ A.auI.prototype={
 $1(a){A.y1().$1("Current page: "+a)},
 $S:22}
 A.Rh.prototype={
-F(a){var s=null,r=A.aH3(s,B.M6,s,s,s,s,s,s,!0,s,s,s,s,s,s,A.hC(B.k,0.5),!0,s,s,s,s,s,s,s,s,s,s,s,s,B.zR,"Cerca Argomento",s,s,s,s,s,s,s,s,s,!0,s,A.dA(B.FT,A.hC(B.l,0.6),s,24),s,s,s,s,s,s,s,s,s,s,s)
+F(a){var s=null,r=A.aH3(s,B.M6,s,s,s,s,s,s,!0,s,s,s,s,s,s,A.hC(B.k,0.6),!0,s,s,s,s,s,s,s,s,s,s,s,s,B.zR,"Cerca Argomento",s,s,s,s,s,s,s,s,s,!0,s,A.dA(B.FT,A.hC(B.l,0.7),s,24),s,s,s,s,s,s,s,s,s,s,s)
 return new A.by(B.ea,new A.ED(s,r,B.Rb,B.Tk,!1,B.Qg,B.Qh,s,!0,s),s)}}
 A.wz.prototype={
 F(a){return A.pt(new A.ao9(this),t.eC)}}
@@ -88019,7 +88019,7 @@ $3(a,b,c){var s,r,q,p=null,o=A.R(a).ax,n=o.xr
 o=n==null?o.k3:n
 n=b.a
 n===$&&A.a()
-n=n.j(0,$.jV())?A.hC(B.k,0.4):B.l
+n=n.j(0,$.jV())?A.hC(B.k,0.5):B.l
 s=t.p
 r=A.de(A.dV(A.b([A.ch(this.a.c,p,p,p,A.dO(p,p,p,p,p,p,p,p,p,p,p,28,p,p,B.as,p,p,!0,p,p,p,p,p,p,p,p),p,p)],s),B.z,B.b6,B.J),p,p)
 q=A.AD(p,A.dA(B.fT,p,p,p),p,p,new A.ao7(a),p,p)
@@ -88190,7 +88190,7 @@ $3(a,b,c){var s,r=null,q=A.R(a).ax,p=q.xr
 q=p==null?q.k3:p
 p=b.a
 p===$&&A.a()
-p=p.j(0,$.jV())?A.hC(B.k,0.4):B.l
+p=p.j(0,$.jV())?A.hC(B.k,0.5):B.l
 s=t.p
 return A.kC(new A.lY(A.ys(A.b([new A.by(B.jf,A.AD(r,A.dA(b.a.j(0,$.jV())?B.nE:B.nC,r,r,r),r,r,b.gau4(),r,r),r),B.eQ],s),q,r,10,B.CA,new A.e8(new A.aqI(),r),p,r),B.zk,r),r,A.de(A.dV(A.b([B.b3,B.VN,B.zm,A.dc(A.aCa(new A.aqJ(this.a),5),300,r),B.b3],s),B.z,B.b6,B.J),r,r),B.f6)},
 $S:213}
@@ -88292,7 +88292,7 @@ $3(a,b,c){var s,r,q,p,o=null,n=A.R(a).ax,m=n.xr
 n=m==null?n.k3:m
 m=b.a
 m===$&&A.a()
-m=m.j(0,$.jV())?A.hC(B.k,0.4):B.l
+m=m.j(0,$.jV())?A.hC(B.k,0.5):B.l
 s=t.p
 m=A.ys(o,n,o,10,A.de(A.dV(A.b([A.ch(this.a.a.c,o,o,o,A.dO(o,o,o,o,o,o,o,o,o,o,o,28,o,o,B.as,o,o,!0,o,o,o,o,o,o,o,o),o,o)],s),B.z,B.b6,B.J),o,o),o,m,o)
 n=t.w
@@ -88340,7 +88340,7 @@ s=p.c
 s.toString
 s=A.js(s,!0,t.eC).a
 s===$&&A.a()
-l=A.ys(o,l,o,10,B.CB,o,s.j(0,$.jV())?A.hC(B.k,0.4):B.l,o)
+l=A.ys(o,l,o,10,B.CB,o,s.j(0,$.jV())?A.hC(B.k,0.5):B.l,o)
 if(p.d)m=B.mb
 else{s=A.dE(30)
 m=A.dW(o,A.de(A.aBc(A.dE(30),new A.nh(A.aCy(o,o,new A.nD(B.iw.d4(p.a.c),1)),o,1/0,o,B.cv,B.lM,!1,o,o)),o,o),B.r,o,new A.cy(B.l,o,o,s,o,o,B.aa),o,m.a.b-300,o,o,o,o,o)
@@ -88532,7 +88532,7 @@ $S:110}
 A.ay8.prototype={
 $3(a,b,c){var s,r,q,p,o,n,m,l=null,k=b.c
 k===$&&A.a()
-s=A.hC(A.R(a).ax.b,0.2)
+s=A.hC(A.R(a).ax.b,0.3)
 r=this.a
 q=r.a6c(k.f,a)
 p=k.b
