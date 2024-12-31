@@ -6,6 +6,9 @@ if [ -z "$1" ]; then
   exit 1
 fi
 
+rm docs/index.html
+cp index.html docs/.
+
 git add .
 git commit -m "$1"
 git push origin
