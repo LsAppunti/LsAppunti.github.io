@@ -84287,36 +84287,34 @@ am(){this.aK()
 B.b.U(this.d)
 $.azY()
 $.wP().AE("cameraHtml",new A.atf(this),!0)},
-F(a){var s,r,q,p,o,n,m,l=this,k=null,j=l.c
-j.toString
-j=A.R(j).ax
-s=j.xr
-j=s==null?j.k3:s
-s=l.c
+F(a){var s,r,q,p,o,n,m=this,l=null,k=m.c
+k.toString
+k=A.R(k).ax
+s=k.xr
+k=s==null?k.k3:s
+s=m.c
 s.toString
 s=A.iX(s,!0,t.eC).a
 s===$&&A.a()
 s=s.j(0,$.jo())?A.kA(B.k,0.5):B.l
 r=t.p
-s=A.xf(k,j,k,10,A.cY(A.dp(A.b([A.bY(l.a.c,k,k,k,A.dg(k,k,k,k,k,k,k,k,k,k,k,28,k,k,B.am,k,k,!0,k,k,k,k,k,k,k,k),k,k)],r),B.y,B.bp,B.H),k,k),k,s,k)
-j=t.w
-q=A.bt(a,k,j).w
-p=A.bt(a,k,j).w
-j=A.bt(a,k,j).w
+s=A.xf(l,k,l,10,A.cY(A.dp(A.b([A.bY(m.a.c,l,l,l,A.dg(l,l,l,l,l,l,l,l,l,l,l,28,l,l,B.am,l,l,!0,l,l,l,l,l,l,l,l),l,l)],r),B.y,B.bp,B.H),l,l),l,s,l)
+k=t.w
+q=A.bt(a,l,k).w
+p=A.bt(a,l,k).w
+k=A.bt(a,l,k).w
 o=A.eU(30)
-j=A.eZ(k,A.cY(A.aAy(A.eU(30),new A.LS("cameraHtml",k)),k,k),B.u,k,new A.cH(B.l,k,k,o,k,k,B.ag),k,q.a.b-p.a.b/5,k,k,k,k,j.a.a)
-q=l.d
+k=A.eZ(l,A.cY(A.aAy(A.eU(30),new A.LS("cameraHtml",l)),l,l),B.u,l,new A.cH(B.l,l,l,o,l,l,B.ag),l,q.a.b-p.a.b/5,l,l,l,l,k.a.a)
+q=m.d
 p=q.length!==0
-o=p?new A.ate(l,a):k
+o=p?new A.ate(m,a):l
 if(p){p=A.R(a).ax
 n=p.y2
 p=n==null?p.c:n}else p=B.tB
-p=A.yG(k,k,p,k,k,k,k,k,k,B.l,k,k,k,k,B.jW,k,k,k,k)
-n=q.length
-m=n===0?"":"("
-p=A.b([A.dw(A.L0(!1,A.fM(A.b([B.b1,A.bY("Avanti "+m+B.i.k(n)+")",k,k,k,B.QM,k,k),B.b1,A.ds(B.ja,B.l,k,k)],r),B.y,B.S,B.H),k,k,B.cr,k,k,k,k,o,k,p),48,150)],r)
-if(q.length===0)p.push(new A.bC(B.DP,A.bY("Scatta almeno una foto",k,k,k,A.dg(k,k,B.jD,k,k,k,k,k,k,k,k,14,k,k,B.ac,k,k,!0,k,k,k,k,k,k,k,k),k,k),k))
-return A.lw(new A.ne(s,B.ks,k),A.cY(A.dp(A.b([new A.bC(B.e2,j,k),A.dp(p,B.y,B.S,B.H)],r),B.y,B.em,B.H),k,k),k)}}
+p=A.yG(l,l,p,l,l,l,l,l,l,B.l,l,l,l,l,B.jW,l,l,l,l)
+p=A.b([A.dw(A.L0(!1,A.fM(A.b([B.b1,A.bY("Avanti (}"+B.i.k(q.length)+")",l,l,l,B.QM,l,l),B.b1,A.ds(B.ja,B.l,l,l)],r),B.y,B.S,B.H),l,l,B.cr,l,l,l,l,o,l,p),48,200)],r)
+if(q.length===0)p.push(new A.bC(B.DP,A.bY("Scatta almeno una foto",l,l,l,A.dg(l,l,B.jD,l,l,l,l,l,l,l,l,14,l,l,B.ac,l,l,!0,l,l,l,l,l,l,l,l),l,l),l))
+return A.lw(new A.ne(s,B.ks,l),A.cY(A.dp(A.b([new A.bC(B.e2,k,l),A.dp(p,B.y,B.S,B.H)],r),B.y,B.em,B.H),l,l),l)}}
 A.ata.prototype={
 $0(){this.b.d.push(this.a.a)},
 $S:0}
